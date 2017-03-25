@@ -28,7 +28,7 @@ while(count>0){
     x.splice(Math.ceil((x.length-1)/2), x.length);
   }
   count=x.length; //assign a new length value to x
-  console.log(x);//this command allows me to see how the array changes.
+  console.log(x);//this command allows me to see how the array changes
 }
 return false;
 }
